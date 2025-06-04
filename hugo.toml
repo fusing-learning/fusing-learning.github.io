@@ -1,0 +1,13 @@
+baseURL = 'https://fusing-learning.github.io/'
+publishDir = "docs"
+languageCode = 'en-us'
+title = "Fu Sing's Learning Journal"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = { Title = "Hello!", Content = "Welcome to my learning journey." }
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
