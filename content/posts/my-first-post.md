@@ -6,3 +6,7 @@ title = 'My First Post'
 
 # Test Heading
 This is a test post.
+
+Below is a test image.
+
+![Lorem Picsum Image](/static/lorem-picsum.jpg)
